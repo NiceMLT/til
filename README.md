@@ -15,3 +15,5 @@
 **2/21/2019** - You can pass named scopes down to other scopes. And specifically overwrite them in the downstream scope so you can encapsulate more diverse sets of data.
 
 **2/25/2019** - Instead of newing up an empty collection and iterating over it, select members that pass the koalifcations.  Apparently I did not learn anything last Friday.
+
+**2/26/2019** - Jumped in to Sumo-Logic for the first time.  Got some good background in their query structure (it's more intuitive than I realized, just keep it simple to start and build from that.)
