@@ -17,3 +17,5 @@
 **2/25/2019** - Instead of newing up an empty collection and iterating over it, select members that pass the koalifcations.  Apparently I did not learn anything last Friday.
 
 **2/26/2019** - Jumped in to Sumo-Logic for the first time.  Got some good background in their query structure (it's more intuitive than I realized, just keep it simple to start and build from that.)
+
+**2/28/2019** -  "Breaking a task down into consumable bits is an art" -- Remind yourself of this and take your time planning.  It might not simplify it for you, but it will simplify it for whomever reviews for you.
