@@ -19,3 +19,5 @@
 **2/26/2019** - Jumped in to Sumo-Logic for the first time.  Got some good background in their query structure (it's more intuitive than I realized, just keep it simple to start and build from that.)
 
 **2/28/2019** -  "Breaking a task down into consumable bits is an art" -- Remind yourself of this and take your time planning.  It might not simplify it for you, but it will simplify it for whomever reviews for you.
+
+**3/7/2019** -  A litle more meta today: 21 days to make a habit.  I reminded Walden of that this morning.  I made it 2 weeks and forgot.  Don't beat yourself up but do hold yourself accountable.  
