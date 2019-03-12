@@ -23,3 +23,5 @@
 **3/7/2019** -  A litle more meta today: 21 days to make a habit.  I reminded Walden of that this morning.  I made it 2 weeks and forgot.  Don't beat yourself up but do hold yourself accountable.  
 
 **3/11/2019** - You can nest PropTypes.  This is nifty `PropTypes.arrayOf(PropTypes.oneOfType([`.
+
+**3/12/2019** - A group of hedgehogs is called an array, which means that everything in an array is a hedgehog.  This is amazing.  
