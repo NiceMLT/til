@@ -27,3 +27,9 @@
 **3/12/2019** - A group of hedgehogs is called an array, which means that everything in an array is a hedgehog.  This is amazing.  
 
 **3/13/2019** - A reminder that moving slow is okay.  Blocking yourself is not.  Success is not a set pace.
+
+**3/14/2019** -
+
+**3/15/2019** - There are more dotfile(s) than just .bash_profile and you can save them together or separate and upload them to GH for posterity.
+
+**3/16/2019** - .squish in tests?  https://til-engineering.nulogy.com/  has some cool stuff
