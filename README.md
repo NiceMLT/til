@@ -33,3 +33,5 @@
 **3/15/2019** - There are more dotfile(s) than just .bash_profile and you can save them together or separate and upload them to GH for posterity.
 
 **3/16/2019** - .squish in tests?  https://til-engineering.nulogy.com/  has some cool stuff
+
+**3/22/2019** - Not giving up on this but understanding that perhaps just logging interesting things is more valuable than forcing myself every day to think of something.  (Or maybe I should just set a reminder to do this daily...)
