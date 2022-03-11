@@ -1,7 +1,6 @@
 ## What is this?
 This is a readme file that will help you better understand me and how I prefer to manage.
 I'd rather be upfront and intentional about who I am and why I am the way that I am to help inform my teams about what they can expect and how we can better work together.
-As a co-founder of Torch, my personality and values will inevitably shape our culture, and rather than let that happen in an unconscious, insidious way, I want to be intentional about it.
 
 ## About me
 I'm a coach by nature. I spent 15 years of my adult life creating, organizing, and coaching an Ultimate Frisbee program for the local High School.
@@ -32,4 +31,4 @@ I believe *FIRMLY* in work life balance. I coach travel baseball and have a daug
 Slack is an asynchronous tool. If I ask a question of you in slack I am not demanding an answer right that second. If you ask me a question and I don't respond immediately, that's okay. Maybe I need to research it, maybe II need to think about it, maybe I'm eating a sandwich. Just reply in a reasonable amount of time (think hours not minutes). If it becomes more urgent; hit me with a "bump" or ask for a call (with context).  
 
 
-This document is a living document and subject to change. As I grow hopefully this document will grow. 
+This document is a living document and subject to change. As I grow hopefully this document will grow.
