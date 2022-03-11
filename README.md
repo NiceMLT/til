@@ -34,4 +34,6 @@
 
 **3/16/2019** - .squish in tests?  https://til-engineering.nulogy.com/  has some cool stuff
 
-**3/22/2019** - Not giving up on this but understanding that perhaps just logging interesting things is more valuable than forcing myself every day to think of something.  (Or maybe I should just set a reminder to do this daily...)
+**3/22/2019** - Not giving up on this but understanding that perhaps just logging interesting things is more valuable than forcing myself every day to think of something.  (Or maybe I should just set a reminder to do this daily...a)
+
+**5/2/2019** - Less than adept at maintaining a "Today I learned" for each day.  Will try to continue this when I get good new thangs.  
