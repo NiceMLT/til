@@ -14,6 +14,12 @@ Since I believe in being honest and open, I tend to assume the people on teams w
 
 I can't say that I value openness and honesty and then not be okay with you being those things with me.  I'll assume I'm meeting your needs unless you tell me otherwise. Being an EM is only a small part of my identity so telling me I could improve in some area isn't going to crush my spirit. I'll do my best to honor your feedback if possible.
 
+I have a host of sayings I use regulalry that can inform you on how I think about the world:
+- There's no feeling like being prepared (and the inverse is true as well)
+- I can only solve problems I know about
+- You are what you allow (or tolerate)
+- Argue for your limitations and sure enough, they're yours (credit Richard Bach)
+
 
 ## 1:1s
 They are your time to chat about whatever you like. Want to ask big questions about the company's direction? Sure! Want to ask about an upcoming feature? Sure! Want to talk baseball? I'm down!  I do like to avoid getting highly technical about tickets/approaches as I believe there's better time (standups, one off meetings with more people, etc) for those technical questions. If I do need to gather status of a particular project or ticket I'll try to get that first and then leave the rest of the time for your questions/concerns.  If I have specific feedback or guidance, I'll provide it as well but if I'm not providing that feedback it is safe to assume you are doing well. Please come prepared with questions or at least a general idea of what you want to get out of it. Better yet, create a developmental plan for what you want to accomplish within the next year, and let’s use that as a framework. I generally prefer to schedule 1:1s Tu/Wed/Thurs during mid-day and have them at least every 2 weeks.  That way we don't ever go too long without chatting and we've insulated the timing of them from half days and long weekends. I tend to try to not schedule anything immediately after my 1:1s to ensure it's okay if they go long.  Some days we'll need 17 minutes, some days we'll need an hour.  That's perfectly fine!
